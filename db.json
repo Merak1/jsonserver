@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "dirección": " 9339 Rosewood Rd. Hamburg NY 14075",
+    "datosPersonales": [
+        {
+            "nombre": "Jhon ",
+            "apellido": "FrusiantSe",
+            "Edad": 40
+        }
+    ],
+    "precio": 2222
+}
